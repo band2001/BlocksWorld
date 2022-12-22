@@ -1,0 +1,12 @@
+square(A)
+square(B)
+square(C)
+square(D)
+square(E)
+
+on(A, D)
+on(B, table)
+on(C, E)
+on(D, table)
+on(E, B)
+
